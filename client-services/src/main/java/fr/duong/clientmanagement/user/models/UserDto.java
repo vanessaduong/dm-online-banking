@@ -1,4 +1,4 @@
-package fr.ekinci.clientmanagement.user.models;
+package fr.duong.clientmanagement.user.models;
 
 import lombok.Data;
 import lombok.ToString;

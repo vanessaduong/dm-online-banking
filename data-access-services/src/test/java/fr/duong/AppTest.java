@@ -1,4 +1,4 @@
-package fr.ekinci;
+package fr.duong;
 
 import junit.framework.Test;
 import junit.framework.TestCase;

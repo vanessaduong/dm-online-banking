@@ -1,4 +1,4 @@
-package fr.ekinci.aop;
+package fr.duong.aop;
 
 import lombok.extern.java.Log;
 import org.aspectj.lang.ProceedingJoinPoint;

@@ -1,4 +1,4 @@
-package fr.ekinci.clientmanagement.user.entities;
+package fr.duong.clientmanagement.user.entities;
 
 import lombok.Data;
 
